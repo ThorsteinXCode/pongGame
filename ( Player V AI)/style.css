@@ -1,0 +1,43 @@
+.arena {
+    position: absolute;
+    width: 900px;
+    height: 600px;
+    background-color: #62247B;
+    border: solid 1px black;
+    margin-top: 100px;
+  }
+  
+  .stick1 {
+    position: absolute;
+    width: 12px;
+    height: 85px;
+    background-color: #C6A62F;
+
+  }
+  .line {
+    position: 'absolute';
+    width: 10px;
+    height: 600px;
+    border-left: 2px dashed #C6A62F;
+    margin-left: 50%;
+  }
+
+    
+  
+  .stick2 {
+    position: absolute;
+    width: 12px;
+    height: 85px;
+    background-color: #C6A62F;
+       
+
+  }
+
+  .ball{
+        position: absolute;
+        width: 15px;
+        height: 15px;
+        border-radius: 50px;
+        background-color: #C6A62F;
+
+  }
